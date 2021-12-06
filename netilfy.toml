@@ -1,0 +1,4 @@
+[[redirects]]
+form = "/*"
+to = "kkangkyu.html"
+status = 200
