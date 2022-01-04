@@ -58,6 +58,10 @@ a{
     color: var(--accent-color);
 }
 
+.mainintro {
+    overflow-y: 300px;
+    
+}
 @media screen and (max-width:768px) {
     .navbar{
         flex-direction: column;
